@@ -47,7 +47,6 @@ module.exports.showListing = async (req, res) => {
     console.log(savedListing);
    
 
-    await newListing.save();
     req.flash("success","New Listing Created");
     res.redirect("/listings");
   };
