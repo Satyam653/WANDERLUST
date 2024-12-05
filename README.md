@@ -5,39 +5,60 @@ Front-end 🌐
 Technologies Used: HTML, CSS, JavaScript, Bootstrap, EJS
 Frameworks: React.js
 Features:
+
 📱 Responsive Design: Optimized for various devices
+
 🔍 User-friendly Interface: For searching and listing properties
+
 🗺️ Mapbox API Integration: For location-based search and property mapping
 
 
 Back-end 🛠️
 
 Technologies Used: Node.js, Express.js
+
 Features:
+
 🧩 RESTful API: Handles user interactions
+
 🔒 User Authentication and Authorization: Using Passport.js and JWT (JSON Web Tokens)
+
 📄 Endpoints: For property listing, login/sign up, and user management
+
 🏷️ Seamless Booking System: Simplifies the reservation process
 
 
 Database 🗄️
 
 Database Management System: MongoDB Atlas
+
 Features:
+
 🗂️ Structured Database Schema: For efficient data management
+
 🔍 Database Queries: To retrieve and store property and user information
 
 
 Cloudinary Image Storage ☁️
+
 Image Hosting: All listing images are securely stored on Cloudinary, providing reliable and efficient image hosting. This ensures that images are easily accessible, optimized for performance, and enhance the overall user experience.
 
 
 Additional Features 🌟
+
+
 ⭐ User Reviews and Ratings: Feature for users to review and rate properties
+
 🔐 Security: Ensured through encryption and data validation
+
 🗺️ Map Integration: For location-based features
+
 📊 Client/Server-side Validations: Thorough validations to ensure smooth operation
+
 🎨 EJS Templates: For modular routing and dynamic views
+
 🍪 Cookies and Sessions: For user-friendly authentication and notifications
+
 🏗️ MVC Architecture: For scalable and organized code
+
 💾 Multer: For handling file uploads
